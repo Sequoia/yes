@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var msg = process.argv[2] || 'y';
 
 while(1){

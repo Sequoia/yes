@@ -2,7 +2,7 @@
   "name": "yes",
   "version": "1.0.0",
   "description": "outputs 'y' over and over (or another string if you pass one)",
-  "main": "yes.js",
+  "bin" : "yes.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sequoia/yes.git"
