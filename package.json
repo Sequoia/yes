@@ -1,8 +1,8 @@
 {
   "name": "yes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "outputs 'y' over and over (or another string if you pass one)",
-  "bin" : "yes.js",
+  "bin": "yes.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sequoia/yes.git"
